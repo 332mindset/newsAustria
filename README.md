@@ -1,17 +1,51 @@
-# React + Vite
+# 📰 skyMessage
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Modern news website about Austria built with React.
 
-Currently, two official plugins are available:
+![preview](https://images.unsplash.com/photo-1495020689067-958852a7765e?q=80&w=1600&auto=format&fit=crop)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## ✨ About
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+**skyMessage** — minimalist news platform focused on:
 
-## Expanding the ESLint configuration
+- politics
+- economy
+- culture
+- everyday life in Austria
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# newsAustria
+Clean UI, modern layout and responsive design.
+
+---
+
+## 🚀 Tech Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=react" height="50" alt="react"/>
+<img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript"/>
+<img src="https://skillicons.dev/icons?i=html" height="50" alt="html"/>
+<img src="https://skillicons.dev/icons?i=css" height="50" alt="css"/>
+<img src="https://skillicons.dev/icons?i=vite" height="50" alt="vite"/>
+<img src="https://skillicons.dev/icons?i=git" height="50" alt="git"/>
+<img src="https://skillicons.dev/icons?i=github" height="50" alt="github"/>
+
+</p>
+
+---
+
+## 📸 Screenshots
+
+### Homepage
+
+![homepage](https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=1600&auto=format&fit=crop)
+
+---
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/skyMessage.git
