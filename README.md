@@ -1,40 +1,48 @@
-````md
-# 📰 skyMessage
+# <div align="center">📰 skyMessage</div>
 
-Modern news website about Austria built with React.
+<div align="center">
 
-![preview](https://images.unsplash.com/photo-1495020689067-958852a7765e?q=80&w=1600&auto=format&fit=crop)
+### Modern Austrian News Website built with React
 
----
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/Vite-black?style=for-the-badge&logo=vite&logoColor=646CFF" />
 
-## ✨ About
+<br/>
+<br/>
 
-**skyMessage** — minimalist news platform focused on politics, economy, culture and everyday life in Austria.  
-Clean UI, responsive layout and modern news cards.
+<img src="https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=1600&auto=format&fit=crop" width="100%" />
 
----
-
-## 🚀 Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react"/>
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript"/>
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html"/>
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css"/>
-  <img src="https://skillicons.dev/icons?i=vite" height="50" alt="vite"/>
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git"/>
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github"/>
-</p>
+</div>
 
 ---
 
-## 📸 Screenshot
+## ✨ About Project
 
-![homepage](https://images.unsplash.com/photo-1504711434969-e33886168f5c?q=80&w=1600&auto=format&fit=crop)
+**skyMessage** — modern minimalist news platform about Austria.
+
+The website contains:
+
+* 🏛 Politics
+* 💶 Economy
+* 🎭 Culture
+* ☕ Everyday Life
+* 📰 Modern News Cards
+* 📱 Responsive Layout
 
 ---
 
-## ⚙️ Installation
+# 📸 Preview
+
+<div align="center">
+<img src="https://images.unsplash.com/photo-1495020689067-958852a7765e?q=80&w=1600&auto=format&fit=crop" width="90%" />
+</div>
+
+---
+
+# ⚙️ Installation
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/skyMessage.git
@@ -48,45 +56,40 @@ npm run dev
 
 ---
 
-## 📂 Project Structure
 
-```txt
-src/
- ├── components/
- ├── pages/
- ├── assets/
- ├── App.jsx
- └── main.jsx
-```
+# 🚀 Features
 
----
-
-## 🎨 Features
-
-- Responsive design
-- Modern UI
-- News cards
-- Fast Vite build
-- Clean layout
-- Minimalistic style
+✔ Modern UI Design
+✔ Responsive Layout
+✔ React Components
+✔ Fast Vite Build
+✔ News Cards Layout
+✔ Clean Typography
+✔ Easy Customization
 
 ---
 
-## 🌍 Future Plans
+# 🌍 Future Plans
 
-- article pages
-- search system
-- categories
-- backend integration
-- CMS
-- dark mode
-- animations
+* 🔍 Search System
+* 🌙 Dark Mode
+* 📄 Article Pages
+* 🗂 Categories
+* ⚡ Backend Integration
+* 🎨 Better Animations
+* 🧠 CMS Support
 
 ---
 
-## 💛 Author
+# 💛 Author
 
-Made with React and coffee ☕
+<div align="center">
+
+Made with ☕ and React
+
+<br/>
+<br/>
 
 # just vibe coding ✨
-````
+
+</div>
